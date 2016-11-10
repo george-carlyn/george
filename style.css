@@ -1,1 +1,13 @@
-Her hardest hue to hold.
+body {
+  background-color: #f7f7f7;
+  background-image: url(_img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 15px;
+}
+p {
+  font-style: italic;
+  background: white;
+  padding: 1rem;
+  margin: 2rem;
+}
